@@ -3,6 +3,5 @@ sidebar:
   - getting-started
   - label: Dev Docs
     children:
-      - doc-1
-      - doc-2
+      - common/doc1/doc1.md
   - deployment
