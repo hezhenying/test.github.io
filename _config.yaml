@@ -5,7 +5,7 @@ search_enabled: true
 auto_page_title: true
 
 sidebar:
-  -
+  - doc1
   - label: Dev Docs
     children:
-      - doc1
+      - doc2
